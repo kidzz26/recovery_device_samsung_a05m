@@ -1,4 +1,4 @@
-# Android device tree for samsung SM-A055F (a05m)
+# TWRP device tree for samsung SM-A055F (a05m)
 
 ```
 #
